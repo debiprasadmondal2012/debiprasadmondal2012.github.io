@@ -1,0 +1,106 @@
+{
+  "name": "Debiprasad Mondal",
+  "tagLine": "MEAN Stack Web Developer",
+  "emailId": "debiprasadmondal2012@gmail.com",
+  "linkedIn": "https://www.linkedin.com/in/debiprasad-mondal-550177191",
+  "gitHubLink": "https://github.com/debiprasadmondal2012",
+  "twitter": "https://twitter.com/DebiprasadMond3",
+  "facebook": "https://www.facebook.com/debiprasadmondalrocks",
+  "youtube": "https://www.youtube.com/channel/UC2nxj2CsJsXiyqCd5Jj0-Rw",
+  "instagram": "https://www.instagram.com/debiprasadmondal2012/?igshid=1cq1tf06dgcug",
+  "contactNumber": "+91-7980805749",
+  "address": "New Town, Kolkata, West Bengal - 700156, India.",
+  "navMenu": [
+    {
+      "router": "#home",
+      "text": "Home"
+    },
+    {
+      "router": "#about",
+      "text": "About Me"
+    },
+    {
+      "router": "#features",
+      "text": "Features"
+    },
+    {
+      "router": "#experience",
+      "text": "Experience"
+    },
+    {
+      "router": "#contact",
+      "text": "Contact Me"
+    }
+  ],
+  "featuredSkills": [
+    {
+      "skillName": "HTML",
+      "skillStrength": "80%"
+    },
+    {
+      "skillName": "CSS",
+      "skillStrength": "70%"
+    },
+    {
+      "skillName": "JavaScript",
+      "skillStrength": "75%"
+    },
+    {
+      "skillName": "jQuery",
+      "skillStrength": "80%"
+    },
+    {
+      "skillName": "Angular",
+      "skillStrength": "80%"
+    },
+    {
+      "skillName": "RxJS",
+      "skillStrength": "70%"
+    },
+    {
+      "skillName": "NodeJS",
+      "skillStrength": "75%"
+    },
+    {
+      "skillName": "Express",
+      "skillStrength": "80%"
+    },
+    {
+      "skillName": "ReactJS",
+      "skillStrength": "65%"
+    },
+    {
+      "skillName": "MongoDB",
+      "skillStrength": "70%"
+    },
+    {
+      "skillName": "MySQL",
+      "skillStrength": "60%"
+    },
+    {
+      "skillName": "Bootstrap",
+      "skillStrength": "75%"
+    },
+    {
+      "skillName": "SCSS/SASS",
+      "skillStrength": "70%"
+    },
+    {
+      "skillName": "Accessibility",
+      "skillStrength": "70%"
+    },
+    {
+      "skillName": "Python",
+      "skillStrength": "50%"
+    },
+    {
+      "skillName": "django",
+      "skillStrength": "50%"
+    },
+    {
+      "skillName": "Splunk",
+      "skillStrength": "50%"
+    }
+
+  ]
+}
