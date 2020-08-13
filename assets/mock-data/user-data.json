@@ -101,6 +101,158 @@
       "skillName": "Splunk",
       "skillStrength": "50%"
     }
-
+  ],
+  "primaryCarousel": [
+    { "url": "../../assets/images/Technologies/primary/p1-html.png" },
+    { "url": "../../assets/images/Technologies/primary/p2-css3.png" },
+    { "url": "../../assets/images/Technologies/primary/p3-angular.png" },
+    { "url": "../../assets/images/Technologies/primary/p4-node-js.png" },
+    { "url": "../../assets/images/Technologies/primary/p5-express-js.png" },
+    { "url": "../../assets/images/Technologies/primary/p6-bootstrap.png" },
+    { "url": "../../assets/images/Technologies/primary/p7-MONGO-DB.png" },
+    { "url": "../../assets/images/Technologies/primary/p8-RxJS.jpg" },
+    { "url": "../../assets/images/Technologies/primary/p9-sass.png" },
+    { "url": "../../assets/images/Technologies/primary/p10-jQuery.jpg" }
+  ],
+  "secondaryCarousel": [
+    { "url": "../../assets/images/Technologies/secondary/s0-agile.jpg" },
+    { "url": "../../assets/images/Technologies/secondary/s1-react.png" },
+    { "url": "../../assets/images/Technologies/secondary/s2-python.png" },
+    { "url": "../../assets/images/Technologies/secondary/s3-django.png" },
+    { "url": "../../assets/images/Technologies/secondary/s4-MySQL.png" },
+    { "url": "../../assets/images/Technologies/secondary/s5-sql.png" },
+    { "url": "../../assets/images/Technologies/secondary/s6-ada.png" },
+    { "url": "../../assets/images/Technologies/secondary/s7-git.png" },
+    { "url": "../../assets/images/Technologies/secondary/s8-Jira.png" },
+    { "url": "../../assets/images/Technologies/secondary/s9-bitbucket.png" },
+    { "url": "../../assets/images/Technologies/secondary/s10-stash.png" },
+    { "url": "../../assets/images/Technologies/secondary/s11-js.png" },
+    { "url": "../../assets/images/Technologies/secondary/s12-splunk.png" },
+    { "url": "../../assets/images/Technologies/secondary/s13-visualstudio.png" }
+  ],
+  "tools": [ "Angular CLI","Eclipse", "Visual Studio",
+    "Sublime Text", "Atom", "Node JS", "Nodemon", "Postman",
+    "Advance Rest Client", "Citrix", "VNC", "VMWare Zorizon Client",
+    "PyCharm", "IntelliJ IDEA", "Oracle Endeca", "AWS EC2",
+    "Office 365","Adobe apps","BrowserStack", "Webpack","JBoss",
+    "IIS", "Maven Build tool", "AXE", "Accessibility", "iAccess",
+    "NVDA screen reader","Babel", "GIT", "Jira", "Stash", "Bitbucket",
+    "Web Page Scanner", "Splunk", "Grunt", "Gulp","Nimbus" ],
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Senior Front End Developer",
+      "duration": "June 2020 - Present",
+      "border": true,
+      "description": "Working on development of portals in a new framework of NodeJS and Express JS.<br />Express JS is been used as a middleware framework and as well as the server side code for calling database(MySQL and Mongo), and also for connecting to other third party APIs.<br />Rendering customer data, and also advisor data from the database or PEGA/CAL systems and performing different business logics on them.<br />Leading the module as building the framework architecture, with Angular as front end, along with Node and Express for backend services.<br />Created REST APIs in Express for interaction with Angular frontend.<br />Hands-on with Mongo and MySQL server, crud operations and authentication implementation with JWT.<br />"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Senior Front End Developer",
+      "duration": "May 2020 - June 2020",
+      "border": true,
+      "description": "Worked on development of Investments Portal in Angular for a leading Investment Company.<br />Development of Angular libraries for making the angular components independent and reusable in different app portals.<br />Developed Angular 8 libraries with the components with new architecture, and made individual components working independent.Modified build process of the libraries and consumption of those as an intermediate Angular elements in different portals.<br />Actively participated in the requirement analysis for Angular architecture.<br />"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Senior Front End Developer",
+      "duration": "February 2020 - April 2020",
+      "border": true,
+      "description": "Worked on development of Investments Portal in Angular for a leading Investment Company.<br />Development of Status Update module as per requirement.<br/>Development of every components in Angular elements, and intregation of those indivudual components in another seperate website for different portals.<br/>The whole modules was designed and developed in Angular 8 framework for different portals along with different business logic.<br/>Actively participated in the requirement analysis for Angular architecture.<br />Lead the module for implementation of responsive framework and fetching data from backend services, and providing valuable feedbacks. <br/>"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Senior Front End Developer",
+      "duration": "July 2019 - January 2020",
+      "border": true,
+      "description": "Worked on development of Audiobook and audio player in Angular.<br/>Actively participated in the requirement analysis for Audiobook business requirements.<br/>Lead the module for implementation of design and business functionalities of audio book subscription, and payment details and other account functionalities. <br/>Audiobook sell and purchase type, checkout flow functionalities, with order details and post order business logics. Web development in responsive architecture, and other API implementations. Along with ADA accessibility and end to end testing. <br/>Working with Audiobook contect management team to fetch audio data, and implementation of<br/>"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Senior Front End Developer",
+      "duration": "September 2018 - June 2019",
+      "border": true,
+      "description": "I was involved in the migration of a JSP based e-Commerce application to Angular.<br/>Completed full redesign of existing website to improve navigation, enhance visuals and strengthen search engine rankings.<br>Implementation of BOPIS click and collect module, Product Display Page, Checkout functionality, etc.<br/>Worked in Angular BOPIS module, click and collect functionality end to end feature implementation across the whole site, home page, accounts page, PDP page, cart & checkout pages, etc.<br/> Worked in close connect with third party Stores Team, to consume their Store Selector APIs, locate user and direct them to nearest store using web geolocation API.<br/>Implementation of Store Inventory checkup, and redirecting customers.<br/>Implemented and integrated several Third Parties like Google Ad Campaign, Adobe Analytics, DropThought, etc, throughout the site. <br/>Implementation of Social Login featues accross the site, consuming Gigya third party API, logging in and displaying Ratings, Reviews & Comments on products.<br/> Reviewed code to validate requirements, code standard and verify browser, device and operating system compatibility. <br/>Trained and supervised team members for ongoing projects."
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Front End Developer",
+      "duration": "January 2018 - August 2019",
+      "border": true,
+      "description": "Worked on enhancement of e-Commerce Website and helping the customer increase their revenue. <br/>Actively participated in the requirement analysis for new business requirements, and delivering the bussiness functionalities on time.<br/>Guided clients in selecting Front End texhnologies best suited for the project requirement. <br/>Worked extensively to ensure that the site is Accessibility compliant as per WCAG. <br>Working with Deque University team to get compliance certificate on ADA accessibility.<br/>"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Junior Front End Developer",
+      "duration": "March 2017 - December 2017",
+      "border": true,
+      "description": "Develop Web applications for e-commerce site using web technologies like HTML5, CSS3, Bootstrap, jQuery, JavaScript. <br/> Worked extensibly on Cross-Browser compatibility and fixed bugs, for many industry standard browsers. <br/> Worked closely with the customer UX team to understand the design and convert them into working modules. <br/>Development of ADA accessibility features all over the site, implementation, testing, etc.<br/> Worked with tools like NVDA screen reader, AXE, etc, to achieve accessibility compliance."
+    }
+  ],
+  "courses" : [
+    {
+      "iconClass": "fab fa-angular",
+      "cName": "Angular - The Complete Guide, Udemy",
+      "detailsLink": "https://www.udemy.com/certificate/UC-5a0e123a-37c0-40ba-a8c3-8a9c32704769/"
+    },
+    {
+      "iconClass": "fab fa-node-js",
+      "cName": "Angular & NodeJS - The MEAN Stack Guide, Udemy",
+      "detailsLink": "https://www.udemy.com/certificate/UC-b6f0bdb8-50e7-420a-a023-7f3f7509abc9/"
+    },
+    {
+      "iconClass": "fas fa-leaf",
+      "cName": "MongoDB Basics, MongoDB University",
+      "detailsLink": "https://university.mongodb.com/course_completion/bed920ab-b36d-48d2-9c7b-a3a617346203"
+    },
+    {
+      "iconClass": "fab fa-google",
+      "cName": "The Fundamentals of Digital Marketing, Google Digital",
+      "detailsLink": "https://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code"
+    },
+    {
+      "iconClass": "fab fa-google",
+      "cName": "Advanced Google Analytics, Google Digital Academy",
+      "detailsLink": "https://analytics.google.com/analytics/academy/certificate/3h9MZIQCQT-5mYIBistYmA"
+    },
+    {
+      "iconClass": "fab fa-google",
+      "cName": "Google Analytics for Power Users, Google Digital Academy",
+      "detailsLink": "https://analytics.google.com/analytics/academy/certificate/EanruX-UTCidU_FTHQwPeA"
+    },
+    {
+      "iconClass": "fab fa-google",
+      "cName": "Google Analytics for Beginners, Google Digital Academy",
+      "detailsLink": "https://analytics.google.com/analytics/academy/certificate/8T0HK_-dRf2bTD04N86uYA"
+    },
+    {
+      "iconClass": "fab fa-react",
+      "cName": "React - The Complete Guide, Udemy",
+      "detailsLink": "https://www.udemy.com/certificate/UC-dac73660-fafa-43ef-832c-89fd3eca3a42/"
+    },
+    {
+      "iconClass": "fas fa-greater-than",
+      "cName": "Splunk 7.x Fundamentals Certification, Splunk",
+      "detailsLink": "https://education.splunk.com/award/completion/5f8e4f22-ee0f-379e-9e00-9558f2163d66"
+    }
+  ],
+  "projects": [
+    "Implementation of Click and Collect functionality in E-commerce web application using Geolocation API and third-party stores API.<br /> Redirecting customers to the nearest store from their current location based on available inventory stocks.",
+    "Americans with Disabilities Act compliance of US eCommerce web application, end to end accessibility implementation for desktop pages.",
+    "Integration with PEGA, CAL, Oracle Endeca & ATG services from server-side and client end through Rest API.",
+    "Implementation of different banking features in the Customer Portal for Investment Banking web application, showing policy variations, transaction & status history, and suggestions.",
+    "Implementation of Angular Library packages for independent Angular components built as elements, consuming them within different third party framework applications.",
+    "Developed Rest API for e-commerce and banking applications using Express JS, maintaining authentication, and session from server-side.",
+    "Preparation of Design documents and risk & route cause analysis for web applications.",
+    "Implementation of Google Publisher Tags (GPT) and DoubleClick for Publishers (DFP) pictures & video ads in web application.",
+    "Integration of Adobe analytics in Angular web application. Sending and fetching data from Adobe analytics through API for tracking user journeys.",
+    "Integration of login through Social Media credentials via third party plugins APIs in eCommerce web application. Maintaining reviews, ratings, and feedbacks of the products.",
+    "Introducing new applications for customers by means of Audiobooks in an e-commerce web application, with an audio player and subscription type purchase model.",
+    "Integration of Splunk markups for production support and monitoring of the web application."
+  ],
+  "awards": [
+    "Certificate from US E-commerce client for implementation of Accessibility throughout the desktop application, making it Americans with Disabilities Act (ADA) of 1990 compliant.",
+    "On The Spot Awards by TCS, for providing quick solutin in Angular 8 application for UK Blanking client application.",
+    "On The Spot Awards by TCS, for implementation of Click and collect functionality that made the US e-commerce site to get a huge business."
   ]
 }
